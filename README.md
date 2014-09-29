@@ -4,6 +4,8 @@ ios-cloudkit-objc
 #### Description
 Sample code using the CloudKit framework.
 
+![icon](https://s3-us-west-1.amazonaws.com/app-static-assets/images/cloudkit.png)
+
 ####Language
 Objective-C
 
