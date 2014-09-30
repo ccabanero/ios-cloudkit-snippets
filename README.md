@@ -37,9 +37,9 @@ See screenshot below ...
 
 ####Launching the CloudKit Dashboard
 
-In Xcode, under the __iCloud capability__ section, simply click on the CloudKit Dashboard button.  This will open the Dashboard in your web browser.  Alternatively, just go to https://icloud.developer.apple.com/dashboard and authenticate with your iSO Developer Program credentials.  
+In Xcode, under the __iCloud capability__ section, simply click on the CloudKit Dashboard button.  This will open the Dashboard in your web browser.  Alternatively, just go to https://icloud.developer.apple.com/dashboard and authenticate with your Developer Program credentials.  
 
-All of your CloudKit containers between your different iOS Apps can be centrally managed here.  Use the top left drop-down list to switch between different App Containers.
+All of your CloudKit containers between your different Apps are centrally managed here.  Use the top left drop-down list to switch between different App Containers.
 
 See screenshot below ...
 
