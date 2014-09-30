@@ -21,13 +21,17 @@ Objective-C
 
 ####Setting Up Your Project
 
-In Xcode, simply turn on the __iCloud capability__, check on CloudKit, and start writing code :)  See screenshot below ...
+In Xcode, simply turn on the __iCloud capability__, check on CloudKit, and start writing code :)  
+
+See screenshot below ...
 
 ![icon](imgs/turnoniCloud.png)
 
 ####Launching the CloudKit Dashboard
 
-In Xcode, under the __iCloud capability__ section, simply click on the CloudKit Dashboard button.  This will open the Dashboard in your web browser.  Alternatively, just go to https://icloud.developer.apple.com/dashboard and authenticate with your iSO Developer Program credentials.  See screenshot below ...
+In Xcode, under the __iCloud capability__ section, simply click on the CloudKit Dashboard button.  This will open the Dashboard in your web browser.  Alternatively, just go to https://icloud.developer.apple.com/dashboard and authenticate with your iSO Developer Program credentials.  
+
+See screenshot below ...
 
 ![icon](imgs/cloudkit_dashboard.png)
 
