@@ -33,7 +33,7 @@ In Xcode, under the __iCloud capability__ section, simply click on the CloudKit 
 
 See screenshot below ...
 
-![icon](imgs/cloudkit_dashboard.png)
+![icon](imgs/cloudkitdashboard.png)
 
 ####Contact
 * Twitter: [@clintcabanero](http://twitter.com/clintcabanero)
