@@ -11,21 +11,21 @@ Objective-C and Swift
 
 ####Sample Code
 
-[How to __CREATE__ a new record in a Container's Public Database using Objective-C](https://gist.github.com/ccabanero/a4e3875439df4b97948f) ![icon](imgs/objc.png)
+![icon](imgs/objc.png) [How to __CREATE__ a new record in a Container's Public Database using Objective-C](https://gist.github.com/ccabanero/a4e3875439df4b97948f)
 
-[How to __CREATE__ a new record in a Container's Public Database using Swift](https://gist.github.com/ccabanero/17ded1cdaa68517bfb22) ![icon](imgs/swift.png)
+![icon](imgs/swift.png) [How to __CREATE__ a new record in a Container's Public Database using Swift](https://gist.github.com/ccabanero/17ded1cdaa68517bfb22)
 
-[How to __FETCH__ a record in a Container's Public Database with a known Record ID using Objective-C](https://gist.github.com/ccabanero/f83a8a0e3fd3d546c31f) ![icon](imgs/objc.png)
+![icon](imgs/objc.png) [How to __FETCH__ a record in a Container's Public Database with a known Record ID using Objective-C](https://gist.github.com/ccabanero/f83a8a0e3fd3d546c31f)
 
-[How to __FETCH__ a record in a Container's Public Database with a known Record ID using Swift](https://gist.github.com/ccabanero/838c1cfc48924f6b9eca) ![icon](imgs/swift.png)
+![icon](imgs/swift.png) [How to __FETCH__ a record in a Container's Public Database with a known Record ID using Swift](https://gist.github.com/ccabanero/838c1cfc48924f6b9eca)
 
-[How to __UPDATE__ a record in a Container's Public Database using Objective-C](https://gist.github.com/ccabanero/8a41a0ef181a12e9eb7c) ![icon](imgs/objc.png)
+![icon](imgs/objc.png) [How to __UPDATE__ a record in a Container's Public Database using Objective-C](https://gist.github.com/ccabanero/8a41a0ef181a12e9eb7c)
 
-[How to __UPDATE__ a record in a Container's Public Database using Swift](https://gist.github.com/ccabanero/7b238941efb69e0d891d) ![icon](imgs/swift.png)
+![icon](imgs/swift.png) [How to __UPDATE__ a record in a Container's Public Database using Swift](https://gist.github.com/ccabanero/7b238941efb69e0d891d)
 
-[How to __QUERY__ a record from a Container's Public Database with NSPredicate using Objective-C](https://gist.github.com/ccabanero/a78827f0fa13ac498a14) ![icon](imgs/objc.png)
+![icon](imgs/objc.png) [How to __QUERY__ a record from a Container's Public Database with NSPredicate using Objective-C](https://gist.github.com/ccabanero/a78827f0fa13ac498a14) 
 
-[How to __QUERY__ a record from a Container's Public Database with NSPredicate using Swift](https://gist.github.com/ccabanero/e0f72d1067ba69eb996a) ![icon](imgs/swift.png)
+![icon](imgs/swift.png) [How to __QUERY__ a record from a Container's Public Database with NSPredicate using Swift](https://gist.github.com/ccabanero/e0f72d1067ba69eb996a) 
 
 ####Setting Up Your Project
 
