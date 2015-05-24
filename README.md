@@ -46,5 +46,5 @@ See screenshot below ...
 ![icon](imgs/cloudkitdashboard.png)
 
 ####Connect
-* Twitter: [@clintcabanero](http://twitter.com/clintcabanero)
+* Twitter: [@clintcabanero](http://twitter.com/clintcabanero) 
 * GitHub: [ccabanero](http:///github.com/ccabanero)
